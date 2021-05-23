@@ -1,4 +1,4 @@
-# RDP_COFFIN
+# RDP_X
 
 > **2CPU & 7GB RAM**
 
